@@ -1,0 +1,131 @@
+* {
+	margin: 0;
+	padding: 0;
+	--webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+header {
+	height: 100vh;
+	background: url(../img/congruent_outline.png);
+}
+nav {
+	color: #fff;
+	margin-top: 10px;
+}
+nav a {
+	margin-left: 30px;
+	color: #fff;
+
+}
+nav a:hover{
+	margin-bottom: 1px solid #fff;
+	color: #fff;
+}
+.columna {
+	/*background: #f2f2f2;*/
+}
+.columna p {
+    font-family: 'Slabo 27px', serif;
+	color: #fff;
+	font-size: 20px;
+}
+.letter {
+	font-size: 30px;
+	color: #f7df1e;
+	font-family: 'NeutraText-Bold';
+}
+.letter2 {
+	font-size: 30px;
+	color: #00d8ff;
+	font-family: 'NeutraText-Bold';
+}
+img {
+	border-radius: 100%;
+	width: 100%;
+	
+}
+.foto {
+	width: 30%;
+	margin: auto;
+	margin-top: 20px;
+}
+.arrow  {
+	/*width: 30%;*/
+	color: #f2f2f2;
+	font-size: 40px;
+	/*margin: auto;*/
+	text-align: center;
+	
+}
+.arrow a {
+	color: #f2f2f2;
+	position: relative;
+}
+.social  {
+	text-align: center;
+	margin-top: 20px;
+}
+.social i {
+	font-size: 20px;
+
+}
+.social a {
+	color: #fff;
+	margin: 20px;
+}
+.github {
+	color: #fc6d26;
+}
+.facebook {
+	color: #3b5998;
+}
+.instagram {
+	color: #e1306c;
+}
+.badge {
+	margin-right: 20px;
+}
+.skills {
+	/*border-bottom: 1px dashed #000;*/
+}
+main {
+	background: #f2f2f2;
+}
+main .titles {
+	text-align: center;
+	margin: 10px;
+}
+main .skills i {
+	color: #f9a602;
+	margin-bottom: 5px;
+	font-size: 25px;
+
+}
+h3 {
+	font-family: 'NeutraText-Bold';
+	text-align: center;
+	display: inline-block;
+	margin-right: 10px;
+}
+.dashed { 
+	text-align: center;
+}
+main .html5 {
+	color: #e34f26;
+}
+main .css3 {
+	color: #052049;
+}
+main .javascript {
+	color: #f7df1e;
+}
+main .react {
+	color: #0099e5;
+}
+main .bootstrap {
+	color: #7d3f98;
+}
+main .python {
+	color: #092e20;
+}
